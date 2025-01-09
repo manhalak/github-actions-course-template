@@ -3,6 +3,7 @@ on:
     types: opened
 name: GIPHY Generator
 
+
 jobs:
   giphy-generator:
     name: Giphy Generator
